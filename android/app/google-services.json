@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "728124903494",
+    "project_id": "chat-bot-c9a30",
+    "storage_bucket": "chat-bot-c9a30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728124903494:android:2b4852de23edf8fc917a47",
+        "android_client_info": {
+          "package_name": "com.chatbot.chatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "728124903494-vmhklbvcoscsdpve84pub8lb8loja82u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWuTX1aMOAJNaSJoy6_gRkgSf3l2V6s8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "728124903494-vmhklbvcoscsdpve84pub8lb8loja82u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "728124903494-1lp7nplutbfocl6mqn2s5jfkm0546oaj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.chatbot.chatbot"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

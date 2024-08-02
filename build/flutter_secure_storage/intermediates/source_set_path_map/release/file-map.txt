@@ -1,0 +1,13 @@
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-core-1.6.0-0 C:\Users\rahma\.gradle\caches\transforms-3\1227bb32d338e358eff4c5bf5b08270c\transformed\core-1.6.0\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-1.0.0-beta04-1 C:\Users\rahma\.gradle\caches\transforms-3\1f063c91a907141588f51f373b1f5f4a\transformed\jetified-window-1.0.0-beta04\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-security-crypto-1.1.0-alpha04-2 C:\Users\rahma\.gradle\caches\transforms-3\341cde35feb8d6702421ced5d984aba0\transformed\jetified-security-crypto-1.1.0-alpha04\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-window-java-1.0.0-beta04-3 C:\Users\rahma\.gradle\caches\transforms-3\6d2f8042b989e9f02a2914d91ea7c64c\transformed\jetified-window-java-1.0.0-beta04\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-jetified-annotation-experimental-1.1.0-4 C:\Users\rahma\.gradle\caches\transforms-3\a15c6353ebee292a754ca976f2ce177d\transformed\jetified-annotation-experimental-1.1.0\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-main-5 C:\Users\rahma\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-7.0.1\android\src\main\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-release-6 C:\Users\rahma\AppData\Local\Pub\Cache\hosted\pub.dev\flutter_secure_storage-7.0.1\android\src\release\res
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-pngs-7 E:\Chatbot\build\flutter_secure_storage\generated\res\pngs\release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-resValues-8 E:\Chatbot\build\flutter_secure_storage\generated\res\resValues\release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-rs-9 E:\Chatbot\build\flutter_secure_storage\generated\res\rs\release
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-10 E:\Chatbot\build\flutter_secure_storage\intermediates\incremental\release\mergeReleaseResources\merged.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-mergeReleaseResources-11 E:\Chatbot\build\flutter_secure_storage\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+com.it_nomads.fluttersecurestorage.flutter_secure_storage-merged_res-12 E:\Chatbot\build\flutter_secure_storage\intermediates\merged_res\release

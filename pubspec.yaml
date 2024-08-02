@@ -1,0 +1,41 @@
+name: chatbot
+description: "A new Flutter project."
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+version: 1.0.0+1
+environment:
+  sdk: '>=3.2.3 <4.0.0'
+dependencies:
+  google_generative_ai:
+  intl: any
+  flutter_secure_storage: ^7.0.0
+  flutter:
+    sdk: flutter
+
+  chat_gpt_sdk: ^3.0.8
+  dio: ^5.0.0
+  dash_chat_2: ^0.0.20
+  firebase_core: ^2.31.0
+  firebase_auth: ^4.19.5
+  google_sign_in: ^6.2.1
+
+
+  flutter_launcher_icons: ^0.13.1
+
+  cupertino_icons: ^1.0.2
+  cloud_firestore: ^4.17.4
+  flutter_localizations:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: "AppIcon"
+  image_path: 'assets/images/img_1.png'
+  min_sdk_android: 21 # android min sdk min:16, default 21
+  remove_alpha_ios: true
